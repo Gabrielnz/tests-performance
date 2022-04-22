@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Gabrielnz/tests-performance/issues"
   },
-  "homepage": "https://github.com/Gabrielnz/tests-performance#readme"
+  "homepage": "https://github.com/Gabrielnz/tests-performance#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
 }
